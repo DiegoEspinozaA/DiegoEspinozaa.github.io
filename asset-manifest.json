@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yemo/static/css/main.ce4887f2.chunk.css",
+    "main.js": "/yemo/static/js/main.6422a5f1.chunk.js",
+    "main.js.map": "/yemo/static/js/main.6422a5f1.chunk.js.map",
+    "runtime-main.js": "/yemo/static/js/runtime-main.46afdf4e.js",
+    "runtime-main.js.map": "/yemo/static/js/runtime-main.46afdf4e.js.map",
+    "static/js/2.e2360fcc.chunk.js": "/yemo/static/js/2.e2360fcc.chunk.js",
+    "static/js/2.e2360fcc.chunk.js.map": "/yemo/static/js/2.e2360fcc.chunk.js.map",
+    "index.html": "/yemo/index.html",
+    "precache-manifest.891d8fc85a605381820fa165e949a417.js": "/yemo/precache-manifest.891d8fc85a605381820fa165e949a417.js",
+    "service-worker.js": "/yemo/service-worker.js",
+    "static/css/main.ce4887f2.chunk.css.map": "/yemo/static/css/main.ce4887f2.chunk.css.map",
+    "static/js/2.e2360fcc.chunk.js.LICENSE.txt": "/yemo/static/js/2.e2360fcc.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/yemo/static/media/textura.fb6693b4.webp",
+    "static/media/civico.webp": "/yemo/static/media/civico.c61f226c.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46afdf4e.js",
+    "static/js/2.e2360fcc.chunk.js",
+    "static/css/main.ce4887f2.chunk.css",
+    "static/js/main.6422a5f1.chunk.js"
+  ]
+}
